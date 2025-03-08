@@ -50,4 +50,5 @@ nav:
   - Tags: tags.md
   - Blog:
      - blog/index.md
-     - blog/tags.md
+extra_css:
+  - stylesheets/extra.css
