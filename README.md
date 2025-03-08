@@ -1,5 +1,7 @@
 # A Material for Mkdocs Blog Template
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 The purpose of the template in this repository is to give you a starting point
 for setting up a blog that makes use of features that Material for MkDocs
 provides and of selected integrations with other plugins that are of specific
